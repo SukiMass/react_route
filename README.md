@@ -1,0 +1,1 @@
+This is a basic setup of Route setup with authentication allowing the child routes using outlet.
